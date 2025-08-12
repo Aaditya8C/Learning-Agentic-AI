@@ -1,38 +1,39 @@
-agentic ai – quick reference
-definition
-agentic ai operates autonomously, taking actions to achieve specific goals without constant human input.
+🚀 Agentic AI – Quick Reference
+Definition
+Agentic AI operates autonomously, taking actions to achieve specific goals without constant human input.
 
-1. role & behavior
-traditional ai → reactive; responds only when prompted.
+1️⃣ Role & Behavior
+Traditional AI → Reactive: Responds only when prompted.
 
-agentic ai → proactive; initiates actions aligned with goals.
+Agentic AI → Proactive: Initiates actions aligned with its goals.
 
-2. connection to outside world
-traditional ai → closed; needs user to trigger external access.
+2️⃣ Connection to the Outside World
+Traditional AI → Closed: Needs user to trigger external access.
 
-agentic ai → connects to apis, databases, devices; fetches data, executes commands, triggers workflows.
+Agentic AI → Connected: Integrates with APIs, databases, devices; fetches data, executes commands, triggers workflows.
 
-3. autonomy
-traditional ai → handles one request at a time.
+3️⃣ Autonomy
+Traditional AI → Executes one request at a time.
 
-agentic ai → plans & executes multi-step tasks over time, without ongoing user input.
+Agentic AI → Plans & executes multi-step tasks over time, without ongoing user input.
 
-4. examples
-traditional ai → chatbots, q&a systems, translators.
+4️⃣ Examples
+Traditional AI → Chatbots, Q&A systems, translators.
 
-agentic ai → auto-gpt, ai trading bots, autonomous customer service reps, personal task assistants.
+Agentic AI → Auto-GPT, AI trading bots, autonomous customer service reps, personal task assistants.
 
-workflow
-receive goal → e.g., “find best mutual funds for 6 months”
+🔄 Workflow
+Receive Goal → e.g., “Find best mutual funds for 6 months”
 
-planner → break into subtasks: search → collect data → analyze → compare → summarize
+Planner → Breaks into subtasks: Search → Collect Data → Analyze → Compare → Summarize
 
-memory → store progress & past context
+Memory → Stores progress & past context
 
-tool-use layer → execute via apis, scraping, calculations
+Tool-Use Layer → Executes tasks via APIs, scraping, calculations
 
-feedback loop → check results, adjust plan if needed
+Feedback Loop → Checks results, adjusts plan if needed
 
-final output → deliver to user (and store if required)
+Final Output → Delivered to user (and stored if required)
 
-💡 formula: chatgpt + memory + hands + self-control = agentic ai
+💡 Formula:
+Agentic AI = ChatGPT + Memory + Hands + Self-Control
